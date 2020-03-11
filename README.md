@@ -2,7 +2,7 @@
 Diagramas UML
 
 ## 1. Agrega la cardinalidad o multiplicidad para las asociaciones del siguiente diagrama de clases, justifica tus decisiones:
-[1](./foticos/uml1.png)
+[1](./uml1.png)
 (./foticos/uml1.png)
 
 
