@@ -13,7 +13,7 @@
 *** 
 
 ### 3.Haz el diagrama de clases del siguiente sistema:
-| --- |
+| :--- :|
 | Nos piden hacer una aplicación para llevar una bitácora de los libros              |
 | que estamos leyendo y aquellos que ya hemos terminado de leer.                     |
 | En la App podemos buscar libros por autor, categoría, título y calificación.       |
@@ -25,5 +25,5 @@
 |                                                                                    |
 | OPCIONAL: Podemos indicar si un libro se lo prestamos a un amigo, desde que fecha  |
 | y tenemos su correo para recordarle que nos lo regrese.                            |              
-
+|:---:|
 
