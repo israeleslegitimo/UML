@@ -25,4 +25,5 @@
 > 
 > OPCIONAL: Podemos indicar si un libro se lo prestamos a un amigo, desde que fecha y
 > tenemos su correo para recordarle que nos lo regrese.
+[Clic para ver imagen]()
 ***
